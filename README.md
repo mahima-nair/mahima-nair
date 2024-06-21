@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Mahima Nair</h1>
-<h3 align="center">Highly motivated individual with a keen interest in the vast ocean of knowledge about Computer Science. I have a deep passion for Data Science, Machine Learning, and Web Development, constantly eager to expand my skill set and explore new horizons. I am always committed to fostering a positive and inclusive work culture, encouraging teamwork, accountability and continuous professional growth. </h3>
+<h3 align="center">Driven individual with a strong enthusiasm for the expansive realm of Computer Science. I have a deep passion for Data Science, Machine Learning, and Web Development, constantly eager to expand my skill set and explore new horizons. I am always committed to fostering a positive and inclusive work culture, encouraging teamwork, accountability and continuous professional growth. </h3>
 <img align="right" alt="girl coding" width=400 src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 
 - 🌱 I’m currently learning about **MERN Stack**
