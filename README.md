@@ -1,3 +1,4 @@
+![logo](https://github.com/mahima-nair/mahima-nair/blob/main/Mahima%20Nair.png)
 <h1 align="center">Hi 👋, I'm Mahima Nair</h1>
 <h3 align="center">I'm passionate about the vast realms of Data Science, Machine Learning and Web Development and always keen to learn a new skill :) </h3>
 <img align="right" alt="girl coding" width=400 src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
